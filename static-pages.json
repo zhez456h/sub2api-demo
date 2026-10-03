@@ -1,0 +1,6 @@
+{
+  "/home": "index.html",
+  "/login": "login__index.html",
+  "/register": "register__index.html",
+  "/": "index.html"
+}
